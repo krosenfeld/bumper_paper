@@ -1,0 +1,9 @@
+Criteria:
+- Do not say anything about any disease besides measles
+- Do not include any statements regarding cost or financing
+- Do not make statements saying whether one country is better than another
+Topics:
+- Methods or sources
+- Seasonality
+- Susceptibility
+- Supplementary immunization activity (SIA) timing

@@ -1,0 +1,17 @@
+[project]
+name = "bumper"
+version = "0.0.1"
+authors = [
+  { name="Katherine Rosenfeld"}
+]
+description = "BUMPER"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Other/Proprietary License",
+    "Operating System :: OS Independent",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
